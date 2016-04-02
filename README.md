@@ -22,3 +22,7 @@ PulseLoadingIndicator.show()
 
 #####Hide indicator
 PulseLoadingIndicator.hide()
+
+## Credits
+* This class uses [Cartography](https://github.com/robb/Cartography) for constraints
+
