@@ -24,5 +24,5 @@ PulseLoadingIndicator.show()
 PulseLoadingIndicator.hide()
 
 ## Credits
-* This class uses [Cartography](https://github.com/robb/Cartography) for constraints
+* This class uses [Cartography](https://github.com/robb/Cartography):iphone::triangular_ruler: for constraints
 
