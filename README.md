@@ -18,4 +18,4 @@ Call hide method to hide the indicator after long running task.
 PulseLoadingIndicator.show()
 
 #####Hide indicator
-LoadingIndicatorView.hide()
+PulseLoadingIndicator.hide()
