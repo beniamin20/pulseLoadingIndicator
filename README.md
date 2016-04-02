@@ -12,9 +12,9 @@ Loading Indicator in Swift
 ##How To Use
 Include the PulseLoadingIndicator.swift file.
 I've used Cartography framework to set the constraints so you'll need to include it.
-Set the Image for UIImageView
-######     let activityIndicator = UIImageView()
-######     activityIndicator.image = UIImage(named: "logo")
+#####Set the Image for UIImageView
+#######     let activityIndicator = UIImageView()
+#######     activityIndicator.image = UIImage(named: "logo")
 Call hide method to hide the indicator after long running task.
 
 #####Show indicator to cover entire screen
